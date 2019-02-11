@@ -1,0 +1,4 @@
+---
+Resources:
+  SNSTopic:
+    Type: "AWS::SNS::Topic"
